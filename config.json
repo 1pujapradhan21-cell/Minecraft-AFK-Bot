@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
-  "botUsername": "MyBot",
-  "botChunk": 1
+  "serverHost": "godofwarSMP.aternos.me",
+  "serverPort": 18246,
+  "botUsername": "MyBoy",
+  "boyChunk": 1
 }
